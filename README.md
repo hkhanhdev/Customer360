@@ -1,15 +1,15 @@
-##Mô tả bài toán:
+## Mô tả bài toán:
 
 Phân tích/ tìm kiếm insights trong tập dữ liệu 30 ngày log contents giúp business có góc nhìn toàn diện về user story.
 
 ## Những insights cần extract được:
 
-###Khách hàng thích xem thể loại nào nhất/xem nhiều nhất - Most Watch
+### Khách hàng thích xem thể loại nào nhất/xem nhiều nhất - Most Watch
 
-###Khẩu vị của khách hàng là những thể loại nào - Customer Taste
+### Khẩu vị của khách hàng là những thể loại nào - Customer Taste
 
-###Tần suất hoạt động của khách hàng như thế nào - Activeness
-
+### Tần suất hoạt động của khách hàng như thế nào - Activeness
+<br><br>
 Hình ảnh về nguồn dữ liệu ban đầu:
 
 ![Logo dự án](https://github.com/hkhanhdev/Customer360/blob/main/presentations/img1.jpg)<br>
