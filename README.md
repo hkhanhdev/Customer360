@@ -12,7 +12,7 @@ Tần suất hoạt động của khách hàng như thế nào - Activeness
 
 Hình ảnh về nguồn dữ liệu ban đầu:
 
-i1
+![Logo dự án](https://github.com/hkhanhdev/Customer360/blob/main/presentations/img1.jpg)
 Logic ETL Flow :
 i2
 
