@@ -46,28 +46,30 @@ Output:<br>
 ![Logo dự án](https://github.com/hkhanhdev/Customer360/blob/main/presentations/Picture8.jpg)<br>
 
 **Bước tiếp, sử dụng hàm pivot để xổ ngang dữ liệu ra để có cái nhìn toàn cảnh về từng user sử dụng nhóm App nào và có tổng thời lượng sử dụng là bao nhiêu**
-**Output:**<br>
+<br>
 ![Logo dự án](https://github.com/hkhanhdev/Customer360/blob/main/presentations/Picture9.jpg)<br>
-
-**Dựa vào tổng thời lượng sử dụng cho từng nhóm App sẽ xác định được khách hàng xem nhóm nào nhiều nhất(Most Watch)**
+**Output:**<br>
 ![Logo dự án](https://github.com/hkhanhdev/Customer360/blob/main/presentations/Picture10.jpg)<br>
-Output thu được:<br>
+
+**Dựa vào tổng thời lượng sử dụng cho từng nhóm App sẽ xác định được khách hàng xem nhóm nào nhiều nhất(Most Watch)**<br>
 ![Logo dự án](https://github.com/hkhanhdev/Customer360/blob/main/presentations/Picture11.jpg)<br>
+Output thu được:<br>
+![Logo dự án](https://github.com/hkhanhdev/Customer360/blob/main/presentations/Picture12.jpg)<br>
 
 **Dựa vào tổng thời lượng xem cho mỗi nhóm App ta cũng có thể biết được khẩu vị xem của khách hàng là gì, khách hàng thích xem những nhóm App nào nhất, nhóm nào không xem(Customer Taste)**
 
 **Script:**<br>
-![Logo dự án](https://github.com/hkhanhdev/Customer360/blob/main/presentations/Picture12.jpg)<br>
-**Output:**<br>
 ![Logo dự án](https://github.com/hkhanhdev/Customer360/blob/main/presentations/Picture13.jpg)<br>
+**Output:**<br>
+![Logo dự án](https://github.com/hkhanhdev/Customer360/blob/main/presentations/Picture14.jpg)<br>
 
 Cuối cùng tiến hành save kết quả vào trong database<br>
 
-Kết quả ghi log full luồng ETL:<br>
-![Logo dự án](https://github.com/hkhanhdev/Customer360/blob/main/presentations/Picture14.jpg)<br>
+Kết quả file ghi log full luồng ETL:<br>
+![Logo dự án](https://github.com/hkhanhdev/Customer360/blob/main/presentations/Picture15.jpg)<br>
 
 Kết quả thực tế sau khi chạy full luồng ETL:<br>
-![Logo dự án](https://github.com/hkhanhdev/Customer360/blob/main/presentations/Picture15.jpg)<br>
+![Logo dự án](https://github.com/hkhanhdev/Customer360/blob/main/presentations/Picture16.jpg)<br>
 
 
 NOTE:<br>
